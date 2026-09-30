@@ -1174,17 +1174,6 @@ The resulting evaluation provides a structured basis for understanding the stren
 
 ---
 
-## Author
-
-**Nimeshi De Silva**
-
-Information Technology Undergraduate
-Specializing in Data Science
-
-Sri Lanka Institute of Information Technology (SLIIT)
-
----
-
 ## Technologies
 
 **Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn | Google Gemini | Jupyter Notebook | VS Code**
