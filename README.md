@@ -1,6 +1,6 @@
 # LLM Evaluation Framework for HR Resume Screening
 
-## 1. Project Overview
+# 1. Project Overview
 
 This project presents a comprehensive **LLM Evaluation Framework for an AI-based HR Resume Screening application**.
 
